@@ -1,0 +1,77 @@
+{
+  "name": "chatbot-rasa",
+  "version": "1.0.0",
+  "description": "Smart Academy chatbot intents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "intents": [
+    {
+      "title": "Greeting",
+      "tags": ["greeting"],
+      "questions": ["Helloo", "Hi", "How are you?"],
+      "answer": "Hello, how may I be of help today?"
+    },
+    {
+      "title": "About Smart Academy",
+      "tags": ["general", "about"],
+      "questions": [
+        "What is Smart Academy?",
+        "What is Smart Academy",
+        "What is Smart Academy.",
+        "Tell me about Smart Academy.",
+        "Can you explain what Smart Academy is?"
+      ],
+      "answer": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training."
+    },
+    {
+      "title": "Target Audience",
+      "tags": ["general", "audience"],
+      "questions": [
+        "Who should consider Smart Academy?",
+        "Who can benefit from Smart Academy?",
+        "Is Smart Academy for everyone?",
+        "Can I study from Smart Academy?"
+      ],
+      "answer": "Anyone looking to improve their digital skills, including professionals, students, and public servants, can benefit from Smart Academy."
+    },
+    {
+      "title": "Mobile Access",
+      "tags": ["platform", "mobile"],
+      "questions": [
+        "Can I access Smart Academy on my phone?",
+        "Does Smart Academy work on smartphones?",
+        "Is the platform mobile-friendly?"
+      ],
+      "answer": "Yes, the platform is responsive and can be accessed on smartphones, tablets, and laptops."
+    },
+    {
+      "title": "Payment",
+      "tags": ["payment", "ecitizen"],
+      "questions": [
+        "How do I pay for a course?",
+        "How can I make a payment on Smart Academy?",
+        "What is the payment method for Smart Academy courses?"
+      ],
+      "answer": "Payments are made through eCitizen using Paybill number 222222."
+    },
+    {
+      "title": "Certification",
+      "tags": ["certificate", "completion"],
+      "questions": [
+        "Will I get a certificate?",
+        "Do I receive a certificate after completing the course?",
+        "Is a certificate awarded?"
+      ],
+      "answer": "Yes. Upon completion of the course and assessments, an e-certificate is issued."
+    },
+    {
+      "title": "Course Levels",
+      "tags": ["courses", "levels"],
+      "questions": ["What are some of the course levels?"],
+      "answer": "There are currently 4 levels namely: 1) Foundational, 2) Basic, 3) Intermediate, 4) Advanced"
+    }
+  ]
+}

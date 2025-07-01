@@ -1,0 +1,198 @@
+{
+  "name": "chatbot-rasa",
+  "version": "1.0.0",
+  "description": "Smart Academy chatbot intents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "intents": [
+    {
+      "title": "Greeting",
+      "tags": ["greeting"],
+      "questions": ["Hello", "Hi", "Hey", "How are you?", "Good morning", "Good evening"],
+      "answer": "Hello, how may I be of help today?"
+    },
+    {
+      "title": "About Smart Academy",
+      "tags": ["general", "about", "what"],
+      "questions": [
+        "What is Smart Academy?",
+        "Tell me about Smart Academy.",
+        "Can you explain what Smart Academy is?",
+        "Who runs Smart Academy?",
+        "Is Smart Academy a government initiative?"
+      ],
+      "answer": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training."
+    },
+    {
+      "title": "Target Audience",
+      "tags": ["general", "audience"],
+      "questions": [
+        "Who should consider Smart Academy?",
+        "Who can benefit from Smart Academy?",
+        "Is Smart Academy for everyone?",
+        "Can I study from Smart Academy?",
+        "Is it open to the public?",
+        "Can youth access Smart Academy?"
+      ],
+      "answer": "Anyone looking to improve their digital skills, including professionals, students, and public servants, can benefit from Smart Academy."
+    },
+    {
+      "title": "Mobile Access",
+      "tags": ["platform", "mobile"],
+      "questions": [
+        "Can I access Smart Academy on my phone?",
+        "Does Smart Academy work on smartphones?",
+        "Is the platform mobile-friendly?",
+        "Can I use a tablet or iPad for Smart Academy?",
+        "Can I learn on my laptop?"
+      ],
+      "answer": "Yes, the platform is responsive and can be accessed on smartphones, tablets, and laptops."
+    },
+    {
+      "title": "Course Levels Overview",
+      "tags": ["courses", "levels"],
+      "questions": [
+        "What are the course levels available?",
+        "Tell me about the different training levels.",
+        "What learning levels are provided at Smart Academy?"
+      ],
+      "answer": "There are four course levels: 1) Foundational Digital Skills, 2) Basic Digital Skills, 3) Intermediate Digital Skills, and 4) Advanced Digital Skills."
+    },
+    {
+      "title": "Foundational Digital Skills",
+      "tags": ["beginner", "no experience", "entry-level"],
+      "questions": [
+        "Tell me about foundational digital skills",
+        "What is a foundational course?",
+        "I have no experience in IT, where do I start?",
+        "Can I take a course without any experience?",
+        "Do you offer any foundational level courses?",
+        "What foundational courses do you offer?",
+        "Can you tell me your entry-level programs?",
+        "Which courses are suitable for someone new to Information Technology?",
+        "What can I start with if I have zero IT background?"
+      ],
+      "answer": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke."
+    },
+    {
+      "title": "Foundational Course Units",
+      "tags": ["fee", "units", "entry-level"],
+      "questions": [
+        "What units are in the foundational course?",
+        "Can you list the foundational topics?",
+        "What do I learn in the foundational course?"
+      ],
+      "answer": "Units include Operating Digital Devices, Making Social Connections, Doing Business Online, Accessing Government Services, Cyber Hygiene, and eWaste Management. Learn more at https://www.smartacademy.go.ke."
+    },
+    {
+      "title": "Basic Digital Skills",
+      "tags": ["beginner+", "fundamentals"],
+      "questions": [
+        "Tell me about basic digital skills",
+        "Tell me about your basic courses.",
+        "What are your basic level courses?",
+        "Which basic IT Courses do you offer?",
+        "Are there any simple courses I can try?",
+        "What courses are available after Foundational level?",
+        "I have a little IT knowledge, which course should I take?"
+      ],
+      "answer": "The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke."
+    },
+    {
+      "title": "Intermediate Digital Skills",
+      "tags": ["intermediate", "moderate"],
+      "questions": [
+        "Do you have intermediate courses?",
+        "What comes after basic level?",
+        "What is taught at the intermediate level?"
+      ],
+      "answer": "Intermediate courses at Smart Academy are designed for users who have foundational and basic skills. These include more advanced use of digital tools, data handling, and digital project management."
+    },
+    {
+      "title": "Advanced Digital Skills",
+      "tags": ["advanced", "expert"],
+      "questions": [
+        "Tell me about advanced digital skills",
+        "What advanced courses are available?",
+        "What is the difference between beginner and advanced courses?",
+        "How do I know if a course is advanced level?",
+        "Can I skip beginner courses and go straight to advanced?",
+        "Are advanced courses accredited?"
+      ],
+      "answer": "Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details."
+    },
+    {
+      "title": "Advanced Course Details",
+      "tags": ["advanced", "requirements", "enrollment"],
+      "questions": [
+        "What are the requirements to enroll in an advanced course?",
+        "Do I need prior experience for advanced courses?",
+        "Can I join an advanced course mid-session?",
+        "Are advanced courses instructor-led?",
+        "How long do advanced courses take?",
+        "Are advanced courses online?",
+        "Are there projects in advanced courses?",
+        "Is tutor support available?"
+      ],
+      "answer": "Advanced courses may require prior experience. They are offered online and include practical projects, instructor support, and run for 3 to 6 months depending on the course."
+    },
+    {
+      "title": "Certification",
+      "tags": ["certificate", "completion"],
+      "questions": [
+        "Will I get a certificate?",
+        "Do all courses offer a certificate?",
+        "Can I use the certificate for job applications?",
+        "When will I receive my certificate?",
+        "Do I pay for the certification?",
+        "Can I get a replacement certificate?",
+        "Is the certificate recognized?",
+        "Does the certificate have an expiry date?"
+      ],
+      "answer": "Yes, you will receive a recognized digital certificate upon completion. It does not expire and can be used for job applications. Replacements can be requested if needed."
+    },
+    {
+      "title": "Payment Process",
+      "tags": ["payment", "ecitizen"],
+      "questions": [
+        "How do I pay for a course?",
+        "How can I make a payment?",
+        "What is the payment method?",
+        "Is payment done through eCitizen?",
+        "Do you accept bank transfers?"
+      ],
+      "answer": "Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration."
+    },
+    {
+      "title": "Paybill & Account Details",
+      "tags": ["payment", "paybill"],
+      "questions": [
+        "What is the Paybill number?",
+        "What is the Account Number?",
+        "Is the Paybill number available on the website?",
+        "Do I need a unique account number for each course?",
+        "What happens if I enter the wrong account number?",
+        "Can you send me the Paybill and Account details?"
+      ],
+      "answer": "Use Paybill number 222222 on eCitizen. Account numbers are generated per course. Visit https://www.smartacademy.go.ke for payment help."
+    },
+    {
+      "title": "Course Fees",
+      "tags": ["payment", "fees"],
+      "questions": [
+        "How much does a course cost?",
+        "Are there discounts available?",
+        "Is there a payment plan available?",
+        "Can I pay in installments?",
+        "Can I pay later and start now?",
+        "Do I get a receipt after payment?",
+        "Is there a refund policy?",
+        "What if I miss a payment?"
+      ],
+      "answer": "Course fees are as follows:\n- Foundational: 500 KES\n- Basic: 2,500 KES\n- Intermediate: 5,000 KES\n- Advanced: 12,000 KES\n\nPay via eCitizen using Paybill 222222."
+    }
+  ]
+}

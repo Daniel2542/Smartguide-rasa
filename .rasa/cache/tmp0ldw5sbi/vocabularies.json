@@ -1,0 +1,49 @@
+{
+  "text": {
+    "hello": 9,
+    "hi": 10,
+    "how": 11,
+    "are": 3,
+    "you": 22,
+    "what": 21,
+    "is": 13,
+    "smart": 18,
+    "academy": 2,
+    "can": 4,
+    "explain": 7,
+    "tell": 19,
+    "me": 14,
+    "about": 1,
+    "do": 6,
+    "i": 12,
+    "pay": 16,
+    "for": 8,
+    "a": 0,
+    "course": 5,
+    "the": 20,
+    "payment": 17,
+    "method": 15
+  },
+  "intent": {
+    "greet": 1,
+    "about_smart_academy": 0,
+    "payment_method": 2
+  },
+  "response": null,
+  "action_name": {
+    "action_listen": 6,
+    "action_restart": 7,
+    "action_session_start": 9,
+    "action_default_fallback": 4,
+    "action_deactivate_loop": 1,
+    "action_revert_fallback_events": 8,
+    "action_default_ask_affirmation": 2,
+    "action_default_ask_rephrase": 3,
+    "action_two_stage_fallback": 10,
+    "action_unlikely_intent": 11,
+    "action_back": 0,
+    "action_extract_slots": 5
+  },
+  "action_text": null,
+  "intent_response_key": null
+}

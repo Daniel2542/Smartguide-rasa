@@ -1,0 +1,476 @@
+[
+    {
+        "timestamp": "2025-06-23 15:03:36",
+        "prompt": "hi",
+        "response": "Hi there! How can I help you today?",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-23 15:03:53",
+        "prompt": "tell me more about smart academy",
+        "response": "I do not have access to real-time information, including specific details about privately-owned educational institutions like a company called \"Smart Academy.\"  There are many organizations that might use that name.  To get information about a specific Smart Academy, you will need to provide more details, such as:\n\n* **Location:**  (City, State, or Country)  This is crucial as the name \"Smart Academy\" could be used in many places.\n* **Type of Academy:** Is it a K-12 school, a vocational school, a coding bootcamp, or something else?\n* **Website or other identifying information:**  Do you have a website address, a social media link, or any other information about the academy?\n\nWith more specific information, I might be able to find relevant details online.",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-23 15:04:13",
+        "prompt": "what is smart academy",
+        "response": "Smart Academy is not a globally recognized or established institution with a single, universally accepted definition.  Therefore, I cannot definitively answer \"what is Smart Academy?\".  There are many organizations and initiatives that use the name \"Smart Academy,\"  often locally or regionally focused.  To get an answer, you need to specify *which* Smart Academy you're asking about.",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-23 15:04:54",
+        "prompt": "Who should consider Smart Academy?",
+        "response": "Smart Academy should be considered by individuals who:\n\n* **Desire a flexible and self-paced learning environment:** Smart Academy typically offers asynchronous courses, allowing learners to study at their own convenience.\n* **Prioritize practical skills and real-world application:**  The best Smart Academies focus on skills directly applicable to the job market.  If the curriculum emphasizes practical projects and hands-on experience, it's a good fit.\n* **Seek affordable or cost-effective education:**  While not always the case, some Smart Academies offer more budget-friendly options compared to traditional institutions.\n* **Value personalized learning experiences:**  Some platforms offer personalized learning paths and support tailored to individual needs and progress.\n* **Need to upskill or reskill quickly:**  The flexibility and often focused curriculum of Smart Academies can enable faster skill acquisition than traditional programs.\n* **Are comfortable with independent learning and self-discipline:** Success in a self-paced environment requires strong self-motivation and time management skills.\n\n\nHowever, Smart Academy might *not* be suitable for learners who:\n\n* **Require significant instructor interaction and immediate feedback:**  While some offer community forums or limited instructor support, direct, consistent interaction may be lacking.\n* **Prefer structured classroom settings and traditional learning methods:** The self-paced nature might not appeal to everyone.\n* **Need extensive hands-on laboratory or in-person experience:**  Depending on the specific program, physical lab work may be limited or unavailable.\n* **Require accreditation for specific professional licenses or certifications:**  Not all Smart Academies offer accredited programs recognized by all employers or licensing boards.  Thorough research is crucial in this area.\n\n\nIn short, careful consideration of learning style, career goals, and the specific offerings of a *particular* Smart Academy is crucial before enrollment.  \"Smart Academy\" is a broad term, and the suitability depends heavily on the individual program and its characteristics.",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-23 15:07:25",
+        "prompt": "What is smart academy",
+        "response": "There is no globally recognized institution or organization called \"Smart Academy.\"  The term is likely used by various schools, training centers, or online platforms to describe their focus on innovative teaching methods, technology integration, or personalized learning.  Therefore, there's no single definitive answer to what \"Smart Academy\" is.  To understand what a specific \"Smart Academy\" is, you would need to specify which one you're interested in.",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-23 15:07:38",
+        "prompt": "What is smart academy\n\n?",
+        "response": "There is no globally recognized institution or program called \"Smart Academy.\"  The term is likely used by various individual schools, online learning platforms, or private tutoring services to brand their educational offerings.  To understand what *a specific* \"Smart Academy\" is, you'd need to provide more context, such as the location or a website associated with it.",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-23 15:25:32",
+        "prompt": "hi",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 15:25:46",
+        "prompt": "what is smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:26:08",
+        "prompt": "where can i find smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:28:20",
+        "prompt": "Who should consider smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:28:40",
+        "prompt": "Who should consider smart academy?",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:29:00",
+        "prompt": "Who should consider Smart Academy?",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:29:15",
+        "prompt": "How do I pay for a course?",
+        "response": "Payments are made through eCitizen using Paybill number 222222.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 15:29:53",
+        "prompt": "Does Smart Academy work on smartphones?",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:33:11",
+        "prompt": "foundational digital skills",
+        "response": "I'm not confident I can help with that.\n\n\ud83d\udcde Contact Smart Academy Support:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-23 15:36:53",
+        "prompt": "what is smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 15:37:01",
+        "prompt": "h",
+        "response": "I'm not confident I can help with that.\n\n\ud83d\udcde Contact Smart Academy Support:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-23 15:37:18",
+        "prompt": "How do I pay for a course",
+        "response": "Payments are made through eCitizen using Paybill number 222222.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 15:37:37",
+        "prompt": "foundational digital skills",
+        "response": "I'm not confident I can help with that.\n\n\ud83d\udcde Contact Smart Academy Support:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-23 15:39:26",
+        "prompt": "can i access smartacademy  on my phone",
+        "response": "Yes, the platform is responsive and can be accessed on smartphones, tablets, and laptops.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 15:40:32",
+        "prompt": "will i get a certificate",
+        "response": "Yes. Upon completion of the course and assessments, an e-certificate is issued.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 15:41:45",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 16:02:18",
+        "prompt": "k",
+        "response": "I'm not confident I can help with that.\n\n\ud83d\udcde Contact Smart Academy Support:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-23 18:51:45",
+        "prompt": "what is smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-23 18:52:17",
+        "prompt": "how can i pay a course",
+        "response": "Payments are made through eCitizen using Paybill number 222222.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-23 18:52:34",
+        "prompt": "foudational courses",
+        "response": "I'm not confident I can help with that.\n\n\ud83d\udcde Contact Smart Academy Support:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-24 09:17:53",
+        "prompt": "what are some of the courses offered",
+        "response": "There are currently 4 levels namely: 1) Foundational, 2) Basic, 3) Intermediate, 4) Advanced",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-24 09:58:49",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-24 09:59:02",
+        "prompt": "what is smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "FAQ (about_smart_academy)"
+    },
+    {
+        "timestamp": "2025-06-24 09:59:25",
+        "prompt": "what are some of the courses offered",
+        "response": "There are currently 4 levels namely: 1) Foundational, 2) Basic, 3) Intermediate, 4) Advanced",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-24 09:59:50",
+        "prompt": "foundational digital skills",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.keWebsite: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-24 10:00:31",
+        "prompt": "digital",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke.\nWebsite: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-24 10:01:06",
+        "prompt": "digital",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke.\n\nWebsite: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-24 10:01:44",
+        "prompt": "digital",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke.\n\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-26 10:19:10",
+        "prompt": "hello\\",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:19:36",
+        "prompt": "what are some of the courses found on smart academy",
+        "response": "There are four course levels: 1) Foundational Digital Skills, 2) Basic Digital Skills, 3) Intermediate Digital Skills, and 4) Advanced Digital Skills.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:20:00",
+        "prompt": "tell me about foundational digital skills",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke.\n\n- 3Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-26 10:21:23",
+        "prompt": "advanced digital skills",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke.\n\n- 3Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-26 10:21:48",
+        "prompt": "do you offer certificates",
+        "response": "Yes, you will receive a recognized digital certificate upon completion. It does not expire and can be used for job applications. Replacements can be requested if needed.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:22:39",
+        "prompt": "tell me about foundational digital skills",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:24:20",
+        "prompt": "where are payments done",
+        "response": "Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:24:38",
+        "prompt": "how much are the courses",
+        "response": "Course fees are as follows:\n- Foundational: 500 KES\n- Basic: 2,500 KES\n- Intermediate: 5,000 KES\n- Advanced: 12,000 KES\n\nPay via eCitizen using Paybill 222222.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:24:59",
+        "prompt": "thank you",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke.\n\n- 3Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-26 10:30:41",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:34:18",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:34:49",
+        "prompt": "smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:35:20",
+        "prompt": "smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 10:35:39",
+        "prompt": "foundational digital skills",
+        "response": "I'm not confident I can help with that.\n\n\ud83d\udcde Contact Smart Academy Support:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-06-26T10:49:54.508045",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26T10:52:17.474494",
+        "prompt": "smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26T10:52:30.467007",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26T10:56:46.441497",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match: 0.82"
+    },
+    {
+        "timestamp": "2025-06-26T10:57:00.618943",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match: 0.82"
+    },
+    {
+        "timestamp": "2025-06-26T10:57:30.696978",
+        "prompt": "smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "Semantic Match: 0.92"
+    },
+    {
+        "timestamp": "2025-06-26T11:00:36.443547",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match (0.82)"
+    },
+    {
+        "timestamp": "2025-06-26T11:00:48.564477",
+        "prompt": "v",
+        "response": "I need more information.  \"v\" is too vague.  Please provide context or a complete question. What is it you want to know or do?",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-26T11:00:57.178552",
+        "prompt": "f",
+        "response": "The input \"f\" is insufficient to provide a helpful response.  I need more context.  What does \"f\" refer to?  Is it a variable, a function, part of a larger code snippet, or something else entirely? Please provide more information.",
+        "source": "Gemini"
+    },
+    {
+        "timestamp": "2025-06-26 11:17:16",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:17:33",
+        "prompt": "what is smart academy",
+        "response": "Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:17:59",
+        "prompt": "foundational digital skills",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:18:22",
+        "prompt": "digital skills",
+        "response": "The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:18:47",
+        "prompt": "advanced digital skills",
+        "response": "Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:20:50",
+        "prompt": "Tell me about foundational and advanced digital skills",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:21:30",
+        "prompt": "Tell me about foundational \nTell me about advanced digital skills\n\n",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:28:16",
+        "prompt": "tell me about foundational \nTell me about advanced digital skills",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details.\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:29:54",
+        "prompt": "Tell me about foundational and advanced digital skills",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details.\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:31:03",
+        "prompt": "Tell me about foundational and advanced  skills",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Units include Operating Digital Devices, Making Social Connections, Doing Business Online, Accessing Government Services, Cyber Hygiene, and eWaste Management. Learn more at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 11:31:33",
+        "prompt": "tell me about foundational digital skills program",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details.\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 13:14:43",
+        "prompt": "hello",
+        "response": "\u2705 Hello, how may I be of help today?",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 13:16:05",
+        "prompt": "hello",
+        "response": "\u2705 Hello, how may I be of help today?",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 13:16:19",
+        "prompt": "smart academy",
+        "response": "\u2705 Smart Academy is an online learning platform developed by the ICT Authority to enable Kenyan citizens to access digital training.\n\n\u2705 Anyone looking to improve their digital skills, including professionals, students, and public servants, can benefit from Smart Academy.\n\n\u2705 There are four course levels: 1) Foundational Digital Skills, 2) Basic Digital Skills, 3) Intermediate Digital Skills, and 4) Advanced Digital Skills.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 13:16:54",
+        "prompt": "foundational digital skills",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details.\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-06-26 13:17:23",
+        "prompt": "tell me about foundational digital skills",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Advanced courses are designed for learners seeking career-ready tech expertise. Topics include AI, Fintech, Cybersecurity, IoT, Data Analytics, and more. Visit https://www.smartacademy.go.ke for details.\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-01 10:41:05",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "FAQ (greeting)"
+    },
+    {
+        "timestamp": "2025-07-01 10:41:22",
+        "prompt": "foundational ",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-01 10:41:58",
+        "prompt": "what are some of the courses under foundational digital skills",
+        "response": "\u2705 Here are the courses included:\nB201: Digital Devices in Digital Workspace\nB202: Skills in Basic Productivity Tools\nB203: Communication and Collaboration\nB204: Access to Government Services\nB205: Video Production and Editing\nB206: Learning Online\nB207: Basic Online Work Skills\nB208: Digital Entrepreneurship\nB209: Cyberhygiene\nB210: E-Waste Management\n\n\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-01 10:43:21",
+        "prompt": "advanced digital skills",
+        "response": "\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke.\n\n\u2705 Here are the courses included:\nB201: Digital Devices in Digital Workspace\nB202: Skills in Basic Productivity Tools\nB203: Communication and Collaboration\nB204: Access to Government Services\nB205: Video Production and Editing\nB206: Learning Online\nB207: Basic Online Work Skills\nB208: Digital Entrepreneurship\nB209: Cyberhygiene\nB210: E-Waste Management\n\n\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-01 10:44:05",
+        "prompt": "B201",
+        "response": "\u2705 B201 teaches how to use digital devices effectively in modern workspaces including basic operations and applications.\n\n\u2705 B203 (Communication and Collaboration) covers tools and strategies to effectively exchange information in digital environments.\n\n\u2705 B202 introduces key digital productivity tools such as word processors, spreadsheets, and presentation software.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-01 10:45:13",
+        "prompt": "how can I apply for a course",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Name: - Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    }
+]
