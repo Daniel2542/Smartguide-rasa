@@ -15,4 +15,4 @@ RUN rasa train nlu
 EXPOSE 5005
 
 # Run Rasa in NLU-only mode via REST
-CMD ["run", "--enable-api", "--model", "models", "--port", "5005", "--cors", "*", "--debug"]
+CMD ["run", "--enable-api", "--model", "models", "--port", "5005", "--cors", "*"]

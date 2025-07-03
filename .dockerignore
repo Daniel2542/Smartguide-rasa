@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.env
+.env
+models/
+logs/
+*.zip
+*.tar
+node_modules/

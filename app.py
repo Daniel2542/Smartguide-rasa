@@ -15,8 +15,7 @@ genai.configure(api_key=os.getenv("API_KEY"))
 encoder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # RASA_NLU_ENDPOINT = "http://localhost:5005/model/parse"
-RASA_URL_ENDPOINT = "https://smartguide-rasa-production.up.railway.app/model/parse"
-
+RASA_NLU_ENDPOINT = "https://smartguide-rasa-production.up.railway.app/model/parse"
 # --- Preprocess and cache embedding ---
 def clean_text(text):
     return text.strip().lower().replace("?", "").replace(".", "")
@@ -29,7 +28,7 @@ def get_cached_embedding(text):
 faq_data = []
 question_bank = []
 try:
-    with open("faq3.json", "r") as f:
+    with open("faq4.json", "r") as f:
         faq_data = json.load(f)["intents"]
         for item in faq_data:
             for q in item.get("questions", []):

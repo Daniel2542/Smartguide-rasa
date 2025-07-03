@@ -1,207 +1,251 @@
 version: "3.1"
 
 rules:
-  - rule: Respond to greeting
-    steps:
-      - intent: greeting
-      - action: utter_greeting
-  - rule: Respond to about smart academy
-    steps:
-      - intent: about_smart_academy
-      - action: utter_about_smart_academy
-  - rule: Respond to target audience
-    steps:
-      - intent: target_audience
-      - action: utter_target_audience
-  - rule: Respond to mobile access
-    steps:
-      - intent: mobile_access
-      - action: utter_mobile_access
-  - rule: Respond to course levels overview
-    steps:
-      - intent: course_levels_overview
-      - action: utter_course_levels_overview
-  - rule: Respond to foundational digital skills
-    steps:
-      - intent: foundational_digital_skills
-      - action: utter_foundational_digital_skills
-  - rule: Respond to foundational course units
-    steps:
-      - intent: foundational_course_units
-      - action: utter_foundational_course_units
-  - rule: Respond to f101
-    steps:
-      - intent: f101
-      - action: utter_f101
-  - rule: Respond to f102
-    steps:
-      - intent: f102
-      - action: utter_f102
-  - rule: Respond to f103
-    steps:
-      - intent: f103
-      - action: utter_f103
-  - rule: Respond to f104
-    steps:
-      - intent: f104
-      - action: utter_f104
-  - rule: Respond to f105
-    steps:
-      - intent: f105
-      - action: utter_f105
-  - rule: Respond to f106
-    steps:
-      - intent: f106
-      - action: utter_f106
-  - rule: Respond to basic digital skills
-    steps:
-      - intent: basic_digital_skills
-      - action: utter_basic_digital_skills
-  - rule: Respond to basic course units
-    steps:
-      - intent: basic_course_units
-      - action: utter_basic_course_units
-  - rule: Respond to b201
-    steps:
-      - intent: b201
-      - action: utter_b201
-  - rule: Respond to b202
-    steps:
-      - intent: b202
-      - action: utter_b202
-  - rule: Respond to b203
-    steps:
-      - intent: b203
-      - action: utter_b203
-  - rule: Respond to basic duration and cost
-    steps:
-      - intent: basic_duration_and_cost
-      - action: utter_basic_duration_and_cost
-  - rule: Respond to basic digital skills enrollment
-    steps:
-      - intent: basic_digital_skills_enrollment
-      - action: utter_basic_digital_skills_enrollment
-  - rule: Respond to basic course mode
-    steps:
-      - intent: basic_course_mode
-      - action: utter_basic_course_mode
-  - rule: Respond to intermediate digital skills
-    steps:
-      - intent: intermediate_digital_skills
-      - action: utter_intermediate_digital_skills
-  - rule: Respond to intermediate course level overview
-    steps:
-      - intent: intermediate_digital_skills
-      - action: utter_intermediate_digital_skills
-  - rule: Respond to intermediate course enrollment structure
-    steps:
-      - intent: intermediate_course_enrollment_structure
-      - action: utter_intermediate_course_enrollment_structure
-  - rule: Respond to intermediate course fees payment
-    steps:
-      - intent: intermediate_course_fees_payment
-      - action: utter_intermediate_course_fees_payment
-  - rule: Respond to i303
-    steps:
-      - intent: i303
-      - action: utter_i303
-  - rule: Respond to i304
-    steps:
-      - intent: i304
-      - action: utter_i304
-  - rule: Respond to i305
-    steps:
-      - intent: i305
-      - action: utter_i305
-  - rule: Respond to i306
-    steps:
-      - intent: i306
-      - action: utter_i306
-  - rule: Respond to i307
-    steps:
-      - intent: i307
-      - action: utter_i307
-  - rule: Respond to i308
-    steps:
-      - intent: i308
-      - action: utter_i308
-  - rule: Respond to i310
-    steps:
-      - intent: i310
-      - action: utter_i310
-  - rule: Respond to i313
-    steps:
-      - intent: i313
-      - action: utter_i313
-  - rule: Respond to i314
-    steps:
-      - intent: i314
-      - action: utter_i314
-  - rule: Respond to advanced digital skills overview
-    steps:
-      - intent: advanced_digital_skills_overview
-      - action: utter_advanced_digital_skills_overview
-  - rule: Respond to advanced course enrollment
-    steps:
-      - intent: advanced_course_enrollment
-      - action: utter_advanced_course_enrollment
-  - rule: Respond to advanced course format duration
-    steps:
-      - intent: advanced_course_format_duration
-      - action: utter_advanced_course_format_duration
-  - rule: Respond to a401
-    steps:
-      - intent: a401
-      - action: utter_a401
-  - rule: Respond to a402
-    steps:
-      - intent: a402
-      - action: utter_a402
-  - rule: Respond to a403
-    steps:
-      - intent: a403
-      - action: utter_a403
-  - rule: Respond to a404
-    steps:
-      - intent: a404
-      - action: utter_a404
-  - rule: Respond to a405
-    steps:
-      - intent: a405
-      - action: utter_a405
-  - rule: Respond to a406
-    steps:
-      - intent: a406
-      - action: utter_a406
-  - rule: Respond to a407
-    steps:
-      - intent: a407
-      - action: utter_a407
-  - rule: Respond to a408
-    steps:
-      - intent: a408
-      - action: utter_a408
-  - rule: Respond to a409
-    steps:
-      - intent: a409
-      - action: utter_a409
-  - rule: Respond to a410
-    steps:
-      - intent: a410
-      - action: utter_a410
-  - rule: Respond to certification
-    steps:
-      - intent: certification
-      - action: utter_certification
-  - rule: Respond to payment process
-    steps:
-      - intent: payment_process
-      - action: utter_payment_process
-  - rule: Respond to paybill account details
-    steps:
-      - intent: paybill_account_details
-      - action: utter_paybill_account_details
-  - rule: Respond to course fees
-    steps:
-      - intent: course_fees
-      - action: utter_course_fees
+- rule: Respond to greeting
+  steps:
+  - intent: greeting
+  - action: utter_greeting
+
+- rule: Respond to about Smart Academy
+  steps:
+  - intent: about_smart_academy
+  - action: utter_about_smart_academy
+
+- rule: Respond to target audience
+  steps:
+  - intent: target_audience
+  - action: utter_target_audience
+
+- rule: Respond to mobile access
+  steps:
+  - intent: mobile_access
+  - action: utter_mobile_access
+
+- rule: Respond to course levels overview
+  steps:
+  - intent: course_levels_overview
+  - action: utter_course_levels_overview
+
+- rule: Respond to foundational digital skills overview
+  steps:
+  - intent: foundational_digital_skills_overview
+  - action: utter_foundational_digital_skills_overview
+
+- rule: Respond to foundational digital skills units
+  steps:
+  - intent: foundational_digital_skills_units
+  - action: utter_foundational_digital_skills_units
+
+- rule: Respond to foundational unit F101 operating digital devices
+  steps:
+  - intent: foundational_unit_f101_operating_digital_devices
+  - action: utter_foundational_unit_f101_operating_digital_devices
+
+- rule: Respond to foundational unit F102 making social connection
+  steps:
+  - intent: foundational_unit_f102_making_social_connection
+  - action: utter_foundational_unit_f102_making_social_connection
+
+- rule: Respond to foundational unit F103 doing business
+  steps:
+  - intent: foundational_unit_f103_doing_business
+  - action: utter_foundational_unit_f103_doing_business
+
+- rule: Respond to foundational unit F104 accessing government services
+  steps:
+  - intent: foundational_unit_f104_accessing_government_services
+  - action: utter_foundational_unit_f104_accessing_government_services
+
+- rule: Respond to foundational unit F105 cyber hygiene for everyone
+  steps:
+  - intent: foundational_unit_f105_cyber_hygiene_for_everyone
+  - action: utter_foundational_unit_f105_cyber_hygiene_for_everyone
+
+- rule: Respond to foundational unit F106 ewaste management
+  steps:
+  - intent: foundational_unit_f106_ewaste_management
+  - action: utter_foundational_unit_f106_ewaste_management
+
+- rule: Respond to basic digital skills overview
+  steps:
+  - intent: basic_digital_skills_overview
+  - action: utter_basic_digital_skills_overview
+
+- rule: Respond to basic digital skills units
+  steps:
+  - intent: basic_digital_skills_units
+  - action: utter_basic_digital_skills_units
+
+- rule: Respond to basic unit B201 digital devices in digital workspace
+  steps:
+  - intent: basic_unit_b201_digital_devices_in_digital_workspace
+  - action: utter_basic_unit_b201_digital_devices_in_digital_workspace
+
+- rule: Respond to basic unit B202 skills in basic productivity tools
+  steps:
+  - intent: basic_unit_b202_skills_in_basic_productivity_tools
+  - action: utter_basic_unit_b202_skills_in_basic_productivity_tools
+
+- rule: Respond to basic unit B203 communication and collaboration
+  steps:
+  - intent: basic_unit_b203_communication_and_collaboration
+  - action: utter_basic_unit_b203_communication_and_collaboration
+
+- rule: Respond to basic digital skills duration and cost
+  steps:
+  - intent: basic_digital_skills_duration_and_cost
+  - action: utter_basic_digital_skills_duration_and_cost
+
+- rule: Respond to basic digital skills enrollment
+  steps:
+  - intent: basic_digital_skills_enrollment
+  - action: utter_basic_digital_skills_enrollment
+
+- rule: Respond to basic digital skills course mode
+  steps:
+  - intent: basic_digital_skills_course_mode
+  - action: utter_basic_digital_skills_course_mode
+
+- rule: Respond to intermediate digital skills overview
+  steps:
+  - intent: intermediate_digital_skills_overview
+  - action: utter_intermediate_digital_skills_overview
+
+- rule: Respond to intermediate digital skills enrollment and structure
+  steps:
+  - intent: intermediate_digital_skills_enrollment_and_structure
+  - action: utter_intermediate_digital_skills_enrollment_and_structure
+
+- rule: Respond to intermediate digital skills fees and payment
+  steps:
+  - intent: intermediate_digital_skills_fees_and_payment
+  - action: utter_intermediate_digital_skills_fees_and_payment
+
+- rule: Respond to intermediate unit I303 advanced excel
+  steps:
+  - intent: intermediate_unit_i303_advanced_excel
+  - action: utter_intermediate_unit_i303_advanced_excel
+
+- rule: Respond to intermediate unit I304 elearning content production
+  steps:
+  - intent: intermediate_unit_i304_elearning_content_production
+  - action: utter_intermediate_unit_i304_elearning_content_production
+
+- rule: Respond to intermediate unit I305 data management and analytics
+  steps:
+  - intent: intermediate_unit禁止
+
+- rule: Respond to intermediate unit I306 digital marketing and ecommerce
+  steps:
+  - intent: intermediate_unit_i306_digital_marketing_and_ecommerce
+  - action: utter_intermediate_unit_i306_digital_marketing_and_ecommerce
+
+- rule: Respond to intermediate unit I307 web design and development
+  steps:
+  - intent: intermediate_unit_i307_web_design_and_development
+  - action: utter_intermediate_unit_i307_web_design_and_development
+
+- rule: Respond to intermediate unit I308 introduction to python programming
+  steps:
+  - intent: intermediate_unit_i308_introduction_to_python_programming
+  - action: utter_intermediate_unit_i308_introduction_to_python_programming
+
+- rule: Respond to intermediate unit I310 fundamentals of networking
+  steps:
+  - intent: intermediate_unit_i310_fundamentals_of_networking
+  - action: utter_intermediate_unit_i310_fundamentals_of_networking
+
+- rule: Respond to intermediate unit I313 ewaste management and circularity
+  steps:
+  - intent: intermediate_unit_i313_ewaste_management_and_circularity
+  - action: utter_intermediate_unit_i313_ewaste_management_and_circularity
+
+- rule: Respond to intermediate unit I314 cyber hygiene for smes
+  steps:
+  - intent: intermediate_unit_i314_cyber_hygiene_for_smes
+  - action: utter_intermediate_unit_i314_cyber_hygiene_for_smes
+
+- rule: Respond to advanced digital skills overview
+  steps:
+  - intent: advanced_digital_skills_overview
+  - action: utter_advanced_digital_skills_overview
+
+- rule: Respond to advanced digital skills enrollment
+  steps:
+  - intent: advanced_digital_skills_enrollment
+  - action: utter_advanced_digital_skills_enrollment
+
+- rule: Respond to advanced digital skills format and duration
+  steps:
+  - intent: advanced_digital_skills_format_and_duration
+  - action: utter_advanced_digital_skills_format_and_duration
+
+- rule: Respond to advanced unit A401 ai for sdgs
+  steps:
+  - intent: advanced_unit_a401_ai_for_sdgs
+  - action: utter_advanced_unit_a401_ai_for_sdgs
+
+- rule: Respond to advanced unit A402 fintech technologies
+  steps:
+  - intent: advanced_unit_a402_fintech_technologies
+  - action: utter_advanced_unit_a402_fintech_technologies
+
+- rule: Respond to advanced unit A403 cybersecurity and analytics
+  steps:
+  - intent: advanced_unit_a403_cybersecurity_and_analytics
+  - action: utter_advanced_unit_a403_cybersecurity_and_analytics
+
+- rule: Respond to advanced unit A404 integrated circuit design and fabrication iot
+  steps:
+  - intent: advanced_unit_a404_integrated_circuit_design_and_fabrication_iot
+  - action: utter_advanced_unit_a404_integrated_circuit_design_and_fabrication_iot
+
+- rule: Respond to advanced unit A405 data analytics for decision making
+  steps:
+  - intent: advanced_unit_a405_data_analytics_for_decision_making
+  - action: utter_advanced_unit_a405_data_analytics_for_decision_making
+
+- rule: Respond to advanced unit A406 advanced project management
+  steps:
+  - intent: advanced_unit_a406_advanced_project_management
+  - action: utter_advanced_unit_a406_advanced_project_management
+
+- rule: Respond to advanced unit A407 ewaste management and circular ai
+  steps:
+  - intent: advanced_unit_a407_ewaste_management_and_circular_ai
+  - action: utter_advanced_unit_a407_ewaste_management_and_circular_ai
+
+- rule: Respond to advanced unit A408 digital project monitoring and evaluation mel
+  steps:
+  - intent: advanced_unit_a408_digital_project_monitoring_and_evaluation_mel
+  - action: utter_advanced_unit_a408_digital_project_monitoring_and_evaluation_mel
+
+- rule: Respond to advanced unit A409 project contract management
+  steps:
+  - intent: advanced_unit_a409_project_contract_management
+  - action: utter_advanced_unit_a409_project_contract_management
+
+- rule: Respond to advanced unit A410 large programme management
+  steps:
+  - intent: advanced_unit_a410_large_programme_management
+  - action: utter_advanced_unit_a410_large_programme_management
+
+- rule: Respond to certification
+  steps:
+  - intent: certification
+  - action: utter_certification
+
+- rule: Respond to payment process
+  steps:
+  - intent: payment_process
+  - action: utter_payment_process
+
+- rule: Respond to paybill and account details
+  steps:
+  - intent: paybill_and_account_details
+  - action: utter_paybill_and_account_details
+
+- rule: Respond to course fees
+  steps:
+  - intent: course_fees
+  - action: utter_course_fees
