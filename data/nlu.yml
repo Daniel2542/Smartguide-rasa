@@ -52,6 +52,7 @@ nlu:
     - Can you tell me your entry-level programs?
     - Which courses are suitable for someone new to Information Technology?
     - What can I start with if I have zero IT background?
+    - About foundational digital skills courses
 
 - intent: foundational_digital_skills_units
   examples: |
@@ -121,6 +122,7 @@ nlu:
     - Are there any simple courses I can try?
     - What courses are available after Foundational level?
     - I have a little IT knowledge, which course should I take?
+    - About basic digital skills courses
 
 - intent: basic_digital_skills_units
   examples: |
@@ -172,6 +174,23 @@ nlu:
     - How is the course structured?
     - Is the training flexible?
 
+#- intent: intermediate_digital_skills_overview
+#  examples: |
+#    - What is an intermediate course?
+#    - Who should take intermediate digital skills course?
+#    - What certifications are offered?
+#    - Can working professionals enroll in intermediate courses?
+#    - Are there flexible learning schedules available?
+#    - What is the difference between beginner and intermediate courses?
+#    - Are intermediate courses accredited?
+#    - What are the benefits of taking intermediate courses?
+#    - What skills do I gain from intermediate level?
+#    - Are intermediate courses job-oriented?
+#    - Do you have intermediate courses?
+#    - What comes after basic level?
+#    - What is taught at the intermediate level?
+#    - About intermediate digital skills courses
+
 - intent: intermediate_digital_skills_overview
   examples: |
     - What is an intermediate course?
@@ -187,6 +206,8 @@ nlu:
     - Do you have intermediate courses?
     - What comes after basic level?
     - What is taught at the intermediate level?
+    - About intermediate digital skills courses
+    
 
 - intent: intermediate_digital_skills_enrollment_and_structure
   examples: |
@@ -227,7 +248,7 @@ nlu:
     - Are payment instructions provided on the Smart Academy platform?
     - Can I get a receipt or proof of payment after registration?
 
-- intent: intermediate_unit_i303_advanced_excel
+- intent: intermediate_course_i303_advanced_excel
   examples: |
     - What is I303 about?
     - Can you explain I303?
@@ -237,7 +258,7 @@ nlu:
     - What is the focus of I303?
     - What skills will I learn in I303?
 
-- intent: intermediate_unit_i304_elearning_content_production
+- intent: intermediate_course_i304_elearning_content_production
   examples: |
     - What is I304 about?
     - Can you explain I304?
@@ -247,7 +268,7 @@ nlu:
     - What is the focus of I304?
     - What skills will I learn in I304?
 
-- intent: intermediate_unit_i305_data_management_and_analytics
+- intent: intermediate_course_i305_data_management_and_analytics
   examples: |
     - What is I305 about?
     - Can you explain I305?
@@ -257,7 +278,7 @@ nlu:
     - What is the focus of I305?
     - What skills will I learn in I305?
 
-- intent: intermediate_unit_i306_digital_marketing_and_ecommerce
+- intent: intermediate_course_i306_digital_marketing_and_ecommerce
   examples: |
     - What is I306 about?
     - Can you explain I306?
@@ -267,7 +288,7 @@ nlu:
     - What is the focus of I306?
     - What skills will I learn in I306?
 
-- intent: intermediate_unit_i307_web_design_and_development
+- intent: intermediate_course_i307_web_design_and_development
   examples: |
     - What is I307 about?
     - Can you explain I307?
@@ -277,7 +298,7 @@ nlu:
     - What is the focus of I307?
     - What skills will I learn in I307?
 
-- intent: intermediate_unit_i308_introduction_to_python_programming
+- intent: intermediate_course_i308_introduction_to_python_programming
   examples: |
     - What is I308 about?
     - Can you explain I308?
@@ -287,7 +308,7 @@ nlu:
     - What is the focus of I308?
     - What skills will I learn in I308?
 
-- intent: intermediate_unit_i310_fundamentals_of_networking
+- intent: intermediate_course_i310_fundamentals_of_networking
   examples: |
     - What is I310 about?
     - Can you explain I310?
@@ -297,7 +318,7 @@ nlu:
     - What is the focus of I310?
     - What skills will I learn in I310?
 
-- intent: intermediate_unit_i313_ewaste_management_and_circularity
+- intent: intermediate_course_i313_ewaste_management_and_circularity
   examples: |
     - What is I313 about?
     - Can you explain I313?
@@ -307,7 +328,7 @@ nlu:
     - What is the focus of I313?
     - What skills will I learn in I313?
 
-- intent: intermediate_unit_i314_cyber_hygiene_for_smes
+- intent: intermediate_course_i314_cyber_hygiene_for_smes
   examples: |
     - What is I314 about?
     - Can you explain I314?
@@ -328,6 +349,7 @@ nlu:
     - Are advanced courses accredited?
     - Are these courses suitable for professionals?
     - Where can I register for advanced courses?
+    - About advanced digital skills courses
 
 - intent: advanced_digital_skills_enrollment
   examples: |
@@ -349,7 +371,7 @@ nlu:
     - Is there a flexible learning option?
     - How are advanced courses structured?
 
-- intent: advanced_unit_a401_ai_for_sdgs
+- intent: advanced_course_a401_ai_for_sdgs
   examples: |
     - What is A401 about?
     - Tell me more about the AI for SDGs course
@@ -357,7 +379,7 @@ nlu:
     - Is A401 suitable for beginners?
     - Does A401 use real-world examples?
 
-- intent: advanced_unit_a402_fintech_technologies
+- intent: advanced_course_a402_fintech_technologies
   examples: |
     - What is A402 about?
     - What is covered in Fintech Technologies?
@@ -365,7 +387,7 @@ nlu:
     - What are the applications of fintech?
     - Is A402 technical or theoretical?
 
-- intent: advanced_unit_a403_cybersecurity_and_analytics
+- intent: advanced_course_a403_cybersecurity_and_analytics
   examples: |
     - What is A403 about?
     - What does Cybersecurity and Analytics entail?
@@ -373,7 +395,7 @@ nlu:
     - Does A403 cover threat detection?
     - What are the outcomes of A403?
 
-- intent: advanced_unit_a404_integrated_circuit_design_and_fabrication_iot
+- intent: advanced_course_a404_integrated_circuit_design_and_fabrication_iot
   examples: |
     - What is A404 about?
     - What will I learn in Integrated Circuit Design?
@@ -381,7 +403,7 @@ nlu:
     - Will I work on IoT devices?
     - Does A404 require electronics background?
 
-- intent: advanced_unit_a405_data_analytics_for_decision_making
+- intent: advanced_course_a405_data_analytics_for_decision_making
   examples: |
     - What is A405 about?
     - Will I learn statistics in A405?
@@ -389,7 +411,7 @@ nlu:
     - What tools will I use in A405?
     - Is there a project in A405?
 
-- intent: advanced_unit_a406_advanced_project_management
+- intent: advanced_course_a406_advanced_project_management
   examples: |
     - What is A406 about?
     - What advanced tools are covered?
@@ -397,7 +419,7 @@ nlu:
     - Is A406 suitable for team leads?
     - What is the difference between A406 and basic PM courses?
 
-- intent: advanced_unit_a407_ewaste_management_and_circular_ai
+- intent: advanced_course_a407_ewaste_management_and_circular_ai
   examples: |
     - What is A407 about?
     - How is AI used in eWaste management?
@@ -405,7 +427,7 @@ nlu:
     - Does this course focus on sustainability?
     - What tools will I learn in A407?
 
-- intent: advanced_unit_a408_digital_project_monitoring_and_evaluation_mel
+- intent: advanced_course_a408_digital_project_monitoring_and_evaluation_mel
   examples: |
     - What is A408 about?
     - What does MeL mean?
@@ -413,7 +435,7 @@ nlu:
     - What tools are used in A408?
     - What kind of data is analyzed in MeL?
 
-- intent: advanced_unit_a409_project_contract_management
+- intent: advanced_course_a409_project_contract_management
   examples: |
     - What is A409 about?
     - What skills are taught in Contract Management?
@@ -421,7 +443,7 @@ nlu:
     - Will I learn procurement?
     - Is A409 suitable for NGOs or corporate?
 
-- intent: advanced_unit_a410_large_programme_management
+- intent: advanced_course_a410_large_programme_management
   examples: |
     - What is A410 about?
     - How is programme management different from project management?
@@ -467,3 +489,12 @@ nlu:
     - Do I get a receipt after payment?
     - Is there a refund policy?
     - What if I miss a payment?
+
+- intent: payment_info
+  examples: |
+    - About payment
+    - Tell me about payments for courses
+    - How do payments work at Smart Academy?
+    - What are the payment options?
+    - Can you explain course fees and payment process?
+    - How do I pay and how much are the courses?

@@ -65,6 +65,7 @@
       "title": "Foundational Digital Skills Overview",
       "tags": ["foundational_skills", "entry_level"],
       "questions": [
+        "About foundational digital skills courses",
         "Tell me about foundational digital skills",
         "What is a foundational course?",
         "I have no experience in IT, where do I start?",
@@ -164,6 +165,7 @@
       "tags": ["basic_skills", "fundamental_skills"],
       "questions": [
         "Tell me about basic digital skills",
+        "About basic digital skills courses",
         "Tell me about your basic courses.",
         "What are your basic level courses?",
         "What is the basic digital skills course about?",
@@ -260,6 +262,7 @@
       "title": "Intermediate Digital Skills Overview",
       "tags": ["intermediate_skills", "moderate_skills"],
       "questions": [
+        "About intermediate digital skills courses",
         "What is an intermediate course?",
         "Who should take intermediate digital skills course?",
         "What certifications are offered?",
@@ -324,8 +327,8 @@
       "answer": "Intermediate courses cost approximately KES 5,000. Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically during registration. Always confirm details before submitting. Receipts are available on your Smart Academy portal."
     },
     {
-      "title": "Intermediate Unit I303: Advanced Excel",
-      "tags": ["intermediate_i303", "intermediate_unit"],
+      "title": "Intermediate Course I303: Advanced Excel",
+      "tags": ["intermediate_i303", "intermediate_course"],
       "questions": [
         "What is I303 about?",
         "Can you explain I303?",
@@ -338,8 +341,8 @@
       "answer": "I303 - Advanced Excel for the Analysis is an intermediate-level course designed to enhance your skills in Excel, especially for data analysis tasks. It includes formulas, pivot tables, charts, and automation. The course runs for 40 hours."
     },
     {
-      "title": "Intermediate Unit I304: eLearning Content Production",
-      "tags": ["intermediate_i304", "intermediate_unit"],
+      "title": "Intermediate Course I304: eLearning Content Production",
+      "tags": ["intermediate_i304", "intermediate_c+ourse"],
       "questions": [
         "What is I304 about?",
         "Can you explain I304?",
@@ -352,8 +355,8 @@
       "answer": "I304 - eLearning Content Production is an intermediate-level course that teaches you how to design and produce digital learning materials. The course covers video editing, audio recording, and interactive content creation. Duration: 40 hours."
     },
     {
-      "title": "Intermediate Unit I305: Data Management and Analytics",
-      "tags": ["intermediate_i305", "intermediate_unit"],
+      "title": "Intermediate Course I305: Data Management and Analytics",
+      "tags": ["intermediate_i305", "intermediate_course"],
       "questions": [
         "What is I305 about?",
         "Can you explain I305?",
@@ -366,8 +369,8 @@
       "answer": "I305 - Data Management and Analytics focuses on organizing, storing, analyzing, and interpreting data. Topics include databases, dashboards, data visualization, and using analytics tools. Runs for 40 hours."
     },
     {
-      "title": "Intermediate Unit I306: Digital Marketing and E-Commerce",
-      "tags": ["intermediate_i306", "intermediate_unit"],
+      "title": "Intermediate Course I306: Digital Marketing and E-Commerce",
+      "tags": ["intermediate_i306", "intermediate_course"],
       "questions": [
         "What is I306 about?",
         "Can you explain I306?",
@@ -380,8 +383,8 @@
       "answer": "I306 - Digital Marketing, E-Commerce & Entrepreneurship teaches how to promote businesses online, create digital shops, use social media, and develop entrepreneurial thinking. Duration: 40 hours."
     },
     {
-      "title": "Intermediate Unit I307: Web Design and Development",
-      "tags": ["intermediate_i307", "intermediate_unit"],
+      "title": "Intermediate Course I307: Web Design and Development",
+      "tags": ["intermediate_i307", "intermediate_course"],
       "questions": [
         "What is I307 about?",
         "Can you explain I307?",
@@ -394,8 +397,8 @@
       "answer": "I307 - Web Design and Development introduces HTML, CSS, layout design, responsive UI, and best practices for creating websites. Ideal for future developers. Duration: 40 hours."
     },
     {
-      "title": "Intermediate Unit I308: Introduction to Python Programming",
-      "tags": ["intermediate_i308", "intermediate_unit"],
+      "title": "Intermediate Course I308: Introduction to Python Programming",
+      "tags": ["intermediate_i308", "intermediate_course"],
       "questions": [
         "What is I308 about?",
         "Can you explain I308?",
@@ -408,8 +411,8 @@
       "answer": "I308 - Introduction to Programming with Python is a beginner-friendly coding course. Learn about variables, loops, conditionals, functions, and simple applications. Duration: 40 hours."
     },
     {
-      "title": "Intermediate Unit I310: Fundamentals of Networking",
-      "tags": ["intermediate_i310", "intermediate_unit"],
+      "title": "Intermediate Course I310: Fundamentals of Networking",
+      "tags": ["intermediate_i310", "intermediate_course"],
       "questions": [
         "What is I310 about?",
         "Can you explain I310?",
@@ -422,8 +425,8 @@
       "answer": "I310 - Fundamentals of Networking covers LAN, WAN, IP addressing, switches, routers, and how data travels over the internet. A great start for networking careers. Duration: 40 hours."
     },
     {
-      "title": "Intermediate Unit I313: eWaste Management and Circularity",
-      "tags": ["intermediate_i313", "intermediate_unit"],
+      "title": "Intermediate Course I313: eWaste Management and Circularity",
+      "tags": ["intermediate_i313", "intermediate_course"],
       "questions": [
         "What is I313 about?",
         "Can you explain I313?",
@@ -436,8 +439,8 @@
       "answer": "I313 - eWaste Management & Circularity educates learners on proper disposal of electronics, reducing waste, and implementing sustainable digital practices. Duration: 40 hours."
     },
     {
-      "title": "Intermediate Unit I314: Cyber Hygiene for SMEs",
-      "tags": ["intermediate_i314", "intermediate_unit"],
+      "title": "Intermediate Course I314: Cyber Hygiene for SMEs",
+      "tags": ["intermediate_i314", "intermediate_Course"],
       "questions": [
         "What is I314 about?",
         "Can you explain I314?",
@@ -453,6 +456,7 @@
       "title": "Advanced Digital Skills Overview",
       "tags": ["advanced_skills", "expert_skills"],
       "questions": [
+        "About advanced digital skills courses",
         "What are the advanced digital skills courses?",
         "What advanced courses are available?",
         "What is the difference between beginner and advanced courses?",
@@ -494,8 +498,8 @@
       "answer": "Advanced courses are fully online and typically run for 3 to 6 months. They include practical tasks, assessments, and live support. Some courses may have weekly schedules or deadlines."
     },
     {
-      "title": "Advanced Unit A401: AI for SDGs",
-      "tags": ["advanced_a401", "advanced_unit"],
+      "title": "Advanced Course A401: AI for SDGs",
+      "tags": ["advanced_a401", "advanced_course"],
       "questions": [
         "What is A401 about?",
         "Tell me more about the AI for SDGs course",
@@ -506,8 +510,8 @@
       "answer": "A401 - AI for SDGs teaches how Artificial Intelligence supports the United Nations Sustainable Development Goals. You'll explore data-driven innovations for solving global challenges like poverty, climate, and health, and learn ethical AI practices using real-world case studies."
     },
     {
-      "title": "Advanced Unit A402: Fintech Technologies",
-      "tags": ["advanced_a402", "advanced_unit"],
+      "title": "Advanced Course A402: Fintech Technologies",
+      "tags": ["advanced_a402", "advanced_Course"],
       "questions": [
         "What is A402 about?",
         "What is covered in Fintech Technologies?",
@@ -518,8 +522,8 @@
       "answer": "A402 covers digital innovations in finance, including blockchain, crypto, mobile banking, robo-advisors, and peer-to-peer lending. The course focuses on how fintech improves financial access, transparency, and security."
     },
     {
-      "title": "Advanced Unit A403: Cybersecurity and Analytics",
-      "tags": ["advanced_a403", "advanced_unit"],
+      "title": "Advanced Course A403: Cybersecurity and Analytics",
+      "tags": ["advanced_a403", "advanced_course"],
       "questions": [
         "What is A403 about?",
         "What does Cybersecurity and Analytics entail?",
@@ -530,8 +534,8 @@
       "answer": "A403 teaches defensive strategies against digital threats using data analytics. Ideal for aspiring security analysts or managers, it includes threat intelligence, anomaly detection, and cyber risk evaluation."
     },
     {
-      "title": "Advanced Unit A404: Integrated Circuit Design and Fabrication (IoT)",
-      "tags": ["advanced_a404", "advanced_unit"],
+      "title": "Advanced Course A404: Integrated Circuit Design and Fabrication (IoT)",
+      "tags": ["advanced_a404", "advanced_course"],
       "questions": [
         "What is A404 about?",
         "What will I learn in Integrated Circuit Design?",
@@ -542,8 +546,8 @@
       "answer": "A404 focuses on designing microchips for IoT devices. It includes basics of electronic design, fabrication processes, and simulation tools for building low-power, high-efficiency circuits for smart devices."
     },
     {
-      "title": "Advanced Unit A405: Data Analytics for Decision Making",
-      "tags": ["advanced_a405", "advanced_unit"],
+      "title": "Advanced Course A405: Data Analytics for Decision Making",
+      "tags": ["advanced_a405", "advanced_course"],
       "questions": [
         "What is A405 about?",
         "Will I learn statistics in A405?",
@@ -554,8 +558,8 @@
       "answer": "A405 covers how to gather, clean, and analyze data for informed decision-making. It involves hands-on use of data tools and visualization techniques to turn raw data into actionable business insights."
     },
     {
-      "title": "Advanced Unit A406: Advanced Project Management",
-      "tags": ["advanced_a406", "advanced_unit"],
+      "title": "Advanced Course A406: Advanced Project Management",
+      "tags": ["advanced_a406", "advanced_course"],
       "questions": [
         "What is A406 about?",
         "What advanced tools are covered?",
@@ -566,8 +570,8 @@
       "answer": "A406 teaches advanced strategies in project planning, budgeting, agile execution, and stakeholder communication. Designed for professionals managing complex or high-value projects."
     },
     {
-      "title": "Advanced Unit A407: E-Waste Management and Circular AI",
-      "tags": ["advanced_a407", "advanced_unit"],
+      "title": "Advanced Course A407: E-Waste Management and Circular AI",
+      "tags": ["advanced_a407", "advanced_course"],
       "questions": [
         "What is A407 about?",
         "How is AI used in eWaste management?",
@@ -578,8 +582,8 @@
       "answer": "A407 explores how AI can optimize eWaste recycling. Learn smart waste categorization, predictive analytics, and environmental compliance for sustainable digital ecosystems."
     },
     {
-      "title": "Advanced Unit A408: Digital Project Monitoring and Evaluation (MeL)",
-      "tags": ["advanced_a408", "advanced_unit"],
+      "title": "Advanced Course A408: Digital Project Monitoring and Evaluation (MeL)",
+      "tags": ["advanced_a408", "advanced_course"],
       "questions": [
         "What is A408 about?",
         "What does MeL mean?",
@@ -590,8 +594,8 @@
       "answer": "A408 teaches digital tools for monitoring project progress and evaluating impact. You'll learn performance indicators, real-time dashboards, and using feedback loops for decision support."
     },
     {
-      "title": "Advanced Unit A409: Project Contract Management",
-      "tags": ["advanced_a409", "advanced_unit"],
+      "title": "Advanced Course A409: Project Contract Management",
+      "tags": ["advanced_a409", "course"],
       "questions": [
         "What is A409 about?",
         "What skills are taught in Contract Management?",
@@ -602,8 +606,8 @@
       "answer": "A409 teaches effective contract creation, negotiation, compliance tracking, and dispute resolution. Ideal for project managers working with vendors, clients, or subcontractors."
     },
     {
-      "title": "Advanced Unit A410: Large Programme Management",
-      "tags": ["advanced_a410", "advanced_unit"],
+      "title": "Advanced Course A410: Large Programme Management",
+      "tags": ["advanced_a410", "advanced_course"],
       "questions": [
         "What is A410 about?",
         "How is programme management different from project management?",
@@ -639,6 +643,19 @@
         "Do you accept bank transfers?"
       ],
       "answer": "Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration."
+    },
+    {
+      "title": "Payment Info",
+      "questions": [
+        "About payment",
+        "Tell me about payments for courses",
+        "How do payments work at Smart Academy?",
+        "What are the payment options?",
+        "Can you explain course fees and payment process?",
+        "How do I pay and how much are the courses?"
+      ],
+      "answer": "Payments for Smart Academy courses are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration. Course fees are as follows:\n- Foundational: 500 KES\n- Basic: 2,500 KES\n- Intermediate: 5,000 KES\n- Advanced: 12,000 KES\nPayments can be made via bank transfer or mobile money through eCitizen. Receipts are available on your Smart Academy portal after payment. For more details, visit [invalid url, do not cite].",
+      "tags": ["payment", "fees", "cost"]
     },
     {
       "title": "Paybill and Account Details",

@@ -14,8 +14,8 @@ load_dotenv()
 genai.configure(api_key=os.getenv("API_KEY"))
 encoder = SentenceTransformer("all-MiniLM-L6-v2")
 
-# RASA_NLU_ENDPOINT = "http://localhost:5005/model/parse"
-RASA_NLU_ENDPOINT = "https://smartguide-rasa-production.up.railway.app/model/parse"
+RASA_NLU_ENDPOINT = "http://localhost:5005/model/parse"
+# RASA_NLU_ENDPOINT = "https://smartguide-rasa-production.up.railway.app/model/parse"
 # --- Preprocess and cache embedding ---
 def clean_text(text):
     return text.strip().lower().replace("?", "").replace(".", "")

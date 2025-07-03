@@ -25,28 +25,28 @@ intents:
   - intermediate_digital_skills_overview
   - intermediate_digital_skills_enrollment_and_structure
   - intermediate_digital_skills_fees_and_payment
-  - intermediate_unit_i303_advanced_excel
-  - intermediate_unit_i304_elearning_content_production
-  - intermediate_unit_i305_data_management_and_analytics
-  - intermediate_unit_i306_digital_marketing_and_ecommerce
-  - intermediate_unit_i307_web_design_and_development
-  - intermediate_unit_i308_introduction_to_python_programming
-  - intermediate_unit_i310_fundamentals_of_networking
-  - intermediate_unit_i313_ewaste_management_and_circularity
-  - intermediate_unit_i314_cyber_hygiene_for_smes
+  - intermediate_course_i303_advanced_excel
+  - intermediate_course_i304_elearning_content_production
+  - intermediate_course_i305_data_management_and_analytics
+  - intermediate_course_i306_digital_marketing_and_ecommerce
+  - intermediate_course_i307_web_design_and_development
+  - intermediate_course_i308_introduction_to_python_programming
+  - intermediate_course_i310_fundamentals_of_networking
+  - intermediate_course_i313_ewaste_management_and_circularity
+  - intermediate_course_i314_cyber_hygiene_for_smes
   - advanced_digital_skills_overview
   - advanced_digital_skills_enrollment
   - advanced_digital_skills_format_and_duration
-  - advanced_unit_a401_ai_for_sdgs
-  - advanced_unit_a402_fintech_technologies
-  - advanced_unit_a403_cybersecurity_and_analytics
-  - advanced_unit_a404_integrated_circuit_design_and_fabrication_iot
-  - advanced_unit_a405_data_analytics_for_decision_making
-  - advanced_unit_a406_advanced_project_management
-  - advanced_unit_a407_ewaste_management_and_circular_ai
-  - advanced_unit_a408_digital_project_monitoring_and_evaluation_mel
-  - advanced_unit_a409_project_contract_management
-  - advanced_unit_a410_large_programme_management
+  - advanced_course_a401_ai_for_sdgs
+  - advanced_course_a402_fintech_technologies
+  - advanced_course_a403_cybersecurity_and_analytics
+  - advanced_course_a404_integrated_circuit_design_and_fabrication_iot
+  - advanced_course_a405_data_analytics_for_decision_making
+  - advanced_course_a406_advanced_project_management
+  - advanced_course_a407_ewaste_management_and_circular_ai
+  - advanced_course_a408_digital_project_monitoring_and_evaluation_mel
+  - advanced_course_a409_project_contract_management
+  - advanced_course_a410_large_programme_management
   - certification
   - payment_process
   - paybill_and_account_details
@@ -63,10 +63,20 @@ responses:
     - text: "Yes, the platform is responsive and can be accessed on smartphones, tablets, and laptops."
   utter_course_levels_overview:
     - text: "There are four course levels: 1) Foundational Digital Skills, 2) Basic Digital Skills, 3) Intermediate Digital Skills, and 4) Advanced Digital Skills."
+#  utter_foundational_digital_skills_overview:
+#    - text: "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke"
+#
   utter_foundational_digital_skills_overview:
-    - text: "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at [invalid url, do not cite]"
+    - text: |
+        The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. It is ideal for beginners with no prior IT experience, providing essential skills to navigate digital tools confidently. Start your tech journey at https://www.smartacademy.go.ke. Available units include:
+        - F101: Operating Digital Devices
+        - F102: Making Social Connection
+        - F103: Doing Business
+        - F104: Accessing Government Services
+        - F105: Cyber Hygiene for Everyone
+        - F106: eWaste Management
   utter_foundational_digital_skills_units:
-    - text: "We offer foundational course with units such as F101: Operating Digital Devices, F102: Making Social Connection, F103: Doing Business, F104: Accessing Government Services, F105: Cyber Hygiene for Everyone and F106: eWaste Management. Visit ([invalid url, do not cite]) to learn more."
+    - text: "We offer foundational course with units such as F101: Operating Digital Devices, F102: Making Social Connection, F103: Doing Business, F104: Accessing Government Services, F105: Cyber Hygiene for Everyone and F106: eWaste Management. Visit (https://www.smartacademy.go.ke) to learn more."
   utter_foundational_unit_f101_operating_digital_devices:
     - text: "Covers the basics of using digital devices like smartphones, tablets, and computers. Learners gain skills in turning devices on/off, navigating screens, using keyboards/mice/touchscreens, and managing simple settings."
   utter_foundational_unit_f102_making_social_connection:
@@ -79,8 +89,22 @@ responses:
     - text: "Focuses on safe internet practices, like creating strong passwords, recognizing scams, protecting personal data, and avoiding harmful online content or malware."
   utter_foundational_unit_f106_ewaste_management:
     - text: "Covers the importance of disposing of digital devices responsibly, environmental impacts of electronic waste, and how to recycle or donate devices safely."
+#  utter_basic_digital_skills_overview:
+#    - text: "The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke"
+#
   utter_basic_digital_skills_overview:
-    - text: "The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at [invalid url, do not cite]"
+    - text: |
+        The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke. Available units include:
+        - B201: Digital Devices in Digital Workspace
+        - B202: Skills in Basic Productivity Tools
+        - B203: Communication and Collaboration
+        - B204: Access to Government Services
+        - B205: Video Production and Editing
+        - B206: Learning Online
+        - B207: Basic Online Work Skills
+        - B208: Digital Entrepreneurship
+        - B209: Cyberhygiene
+        - B210: E-Waste Management
   utter_basic_digital_skills_units:
     - text: "Here are the courses included:\nB201: Digital Devices in Digital Workspace\nB202: Skills in Basic Productivity Tools\nB203: Communication and Collaboration\nB204: Access to Government Services\nB205: Video Production and Editing\nB206: Learning Online\nB207: Basic Online Work Skills\nB208: Digital Entrepreneurship\nB209: Cyberhygiene\nB210: E-Waste Management"
   utter_basic_unit_b201_digital_devices_in_digital_workspace:
@@ -92,65 +116,100 @@ responses:
   utter_basic_digital_skills_duration_and_cost:
     - text: "The full bundled Basic Digital Skills training costs KSh 2,500 and runs for 10 days."
   utter_basic_digital_skills_enrollment:
-    - text: "To enroll, just click the 'Register Now' button on the Smart Academy portal ([invalid url, do not cite]) under your preferred course. Follow the steps to create an account and complete registration."
+    - text: "To enroll, just click the 'Register Now' button on the Smart Academy portal (https://www.smartacademy.go.ke) under your preferred course. Follow the steps to create an account and complete registration."
   utter_basic_digital_skills_course_mode:
     - text: "The course is self-paced and fully online, allowing you to learn at your own convenience within the 10-day period."
+#  utter_intermediate_digital_skills_overview:
+#    - text: "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke."
   utter_intermediate_digital_skills_overview:
-    - text: "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at [invalid url, do not cite]"
+    - text: |
+        The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Available courses include:
+        - I303: Advanced Excel for Analysis
+        - I304: eLearning Content Production
+        - I305: Data Management and Analytics
+        - I306: Digital Marketing, E-Commerce & Entrepreneurship
+        - I307: Web Design and Development
+        - I308: Introduction to Programming with Python
+        - I310: Fundamentals of Networking
+        - I313: eWaste Management & Circularity
+        - I314: Cyber Hygiene for SMEs
+        Explore course details and enrollment at https://www.smartacademy.go.ke.
   utter_intermediate_digital_skills_enrollment_and_structure:
-    - text: "Smart Academy Intermediate programs include specialized courses such as Digital Ethics, Advanced Excel, Data Analytics, Python Programming, Project Management, and more. These are ideal for learners with foundational knowledge and take 1 to 2 months to complete. Courses are flexible, offered online, and supported with mentorship. Visit [invalid url, do not cite] for eligibility, cost, and how to apply."
+    - text: "Smart Academy Intermediate programs include specialized courses such as Digital Ethics, Advanced Excel, Data Analytics, Python Programming, Project Management, and more. These are ideal for learners with foundational knowledge and take 1 to 2 months to complete. Courses are flexible, offered online, and supported with mentorship. Visit https://www.smartacademy.go.ke for eligibility, cost, and how to apply."
   utter_intermediate_digital_skills_fees_and_payment:
     - text: "Intermediate courses cost approximately KES 5,000. Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically during registration. Always confirm details before submitting. Receipts are available on your Smart Academy portal."
-  utter_intermediate_unit_i303_advanced_excel:
+  utter_intermediate_course_i303_advanced_excel:
     - text: "I303 - Advanced Excel for the Analysis is an intermediate-level course designed to enhance your skills in Excel, especially for data analysis tasks. It includes formulas, pivot tables, charts, and automation. The course runs for 40 hours."
-  utter_intermediate_unit_i304_elearning_content_production:
+  utter_intermediate_course_i304_elearning_content_production:
     - text: "I304 - eLearning Content Production is an intermediate-level course that teaches you how to design and produce digital learning materials. The course covers video editing, audio recording, and interactive content creation. Duration: 40 hours."
-  utter_intermediate_unit_i305_data_management_and_analytics:
+  utter_intermediate_course_1305_data_management_and_analytics:
     - text: "I305 - Data Management and Analytics focuses on organizing, storing, analyzing, and interpreting data. Topics include databases, dashboards, data visualization, and using analytics tools. Runs for 40 hours."
-  utter_intermediate_unit_i306_digital_marketing_and_ecommerce:
+  utter_intermediate_course_i306_digital_marketing_and_ecommerce:
     - text: "I306 - Digital Marketing, E-Commerce & Entrepreneurship teaches how to promote businesses online, create digital shops, use social media, and develop entrepreneurial thinking. Duration: 40 hours."
-  utter_intermediate_unit_i307_web_design_and_development:
+  utter_intermediate_course_i307_web_design_and_development:
     - text: "I307 - Web Design and Development introduces HTML, CSS, layout design, responsive UI, and best practices for creating websites. Ideal for future developers. Duration: 40 hours."
-  utter_intermediate_unit_i308_introduction_to_python_programming:
+  utter_intermediate_course_i308_introduction_to_python_programming:
     - text: "I308 - Introduction to Programming with Python is a beginner-friendly coding course. Learn about variables, loops, conditionals, functions, and simple applications. Duration: 40 hours."
-  utter_intermediate_unit_i310_fundamentals_of_networking:
+  utter_intermediate_course_i310_fundamentals_of_networking:
     - text: "I310 - Fundamentals of Networking covers LAN, WAN, IP addressing, switches, routers, and how data travels over the internet. A great start for networking careers. Duration: 40 hours."
-  utter_intermediate_unit_i313_ewaste_management_and_circularity:
+  utter_intermediate_course_i313_ewaste_management_and_circularity:
     - text: "I313 - eWaste Management & Circularity educates learners on proper disposal of electronics, reducing waste, and implementing sustainable digital practices. Duration: 40 hours."
-  utter_intermediate_unit_i314_cyber_hygiene_for_smes:
+  utter_intermediate_course_i314_cyber_hygiene_for_smes:
     - text: "I314 - Cyber Hygiene for Small and Medium Enterprises (SMEs) focuses on protecting businesses from cyber threats using practical security habits. Duration: 40 hours."
+#  utter_advanced_digital_skills_overview:
+#    - text: "Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit https://www.smartacademy.go.ke to explore."
   utter_advanced_digital_skills_overview:
-    - text: "Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit [invalid url, do not cite] to explore."
+    - text: |
+        Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit https://www.smartacademy.go.ke to explore. Available courses include:
+        - A401: AI for SDGs
+        - A402: Fintech Technologies
+        - A403: Cybersecurity and Analytics
+        - A404: Integrated Circuit Design and Fabrication (IoT)
+        - A405: Data Analytics for Decision Making
+        - A406: Advanced Project Management
+        - A407: eWaste Management and Circular AI
+        - A408: Digital Project Monitoring and Evaluation (MEL)
+        - A409: Project Contract Management
+        - A410: Large Programme Management
+
   utter_advanced_digital_skills_enrollment:
     - text: "Advanced courses may require prior experience in digital skills. Enrollment is online via Smart Academy's portal. Support includes tutor interaction, peer forums, and project reviews. Visit the official site to sign up."
   utter_advanced_digital_skills_format_and_duration:
     - text: "Advanced courses are fully online and typically run for 3 to 6 months. They include practical tasks, assessments, and live support. Some courses may have weekly schedules or deadlines."
-  utter_advanced_unit_a401_ai_for_sdgs:
+  utter_advanced_course_a401_ai_for_sdgs:
     - text: "A401 - AI for SDGs teaches how Artificial Intelligence supports the United Nations Sustainable Development Goals. You'll explore data-driven innovations for solving global challenges like poverty, climate, and health, and learn ethical AI practices using real-world case studies."
-  utter_advanced_unit_a402_fintech_technologies:
+  utter_advanced_course_a402_fintech_technologies:
     - text: "A402 covers digital innovations in finance, including blockchain, crypto, mobile banking, robo-advisors, and peer-to-peer lending. The course focuses on how fintech improves financial access, transparency, and security."
-  utter_advanced_unit_a403_cybersecurity_and_analytics:
+  utter_advanced_course_a403_cybersecurity_and_analytics:
     - text: "A403 teaches defensive strategies against digital threats using data analytics. Ideal for aspiring security analysts or managers, it includes threat intelligence, anomaly detection, and cyber risk evaluation."
-  utter_advanced_unit_a404_integrated_circuit_design_and_fabrication_iot:
+  utter_advanced_course_a404_integrated_circuit_design_and_fabrication_iot:
     - text: "A404 focuses on designing microchips for IoT devices. It includes basics of electronic design, fabrication processes, and simulation tools for building low-power, high-efficiency circuits for smart devices."
-  utter_advanced_unit_a405_data_analytics_for_decision_making:
+  utter_advanced_course_a405_data_analytics_for_decision_making:
     - text: "A405 covers how to gather, clean, and analyze data for informed decision-making. It involves hands-on use of data tools and visualization techniques to turn raw data into actionable business insights."
-  utter_advanced_unit_a406_advanced_project_management:
+  utter_advanced_course_a406_advanced_project_management:
     - text: "A406 teaches advanced strategies in project planning, budgeting, agile execution, and stakeholder communication. Designed for professionals managing complex or high-value projects."
-  utter_advanced_unit_a407_ewaste_management_and_circular_ai:
+  utter_advanced_course_a407_ewaste_management_and_circular_ai:
     - text: "A407 explores how AI can optimize eWaste recycling. Learn smart waste categorization, predictive analytics, and environmental compliance for sustainable digital ecosystems."
-  utter_advanced_unit_a408_digital_project_monitoring_and_evaluation_mel:
+  utter_advanced_course_a408_digital_project_monitoring_and_evaluation_mel:
     - text: "A408 teaches digital tools for monitoring project progress and evaluating impact. You'll learn performance indicators, real-time dashboards, and using feedback loops for decision support."
-  utter_advanced_unit_a409_project_contract_management:
+  utter_advanced_course_a409_project_contract_management:
     - text: "A409 teaches effective contract creation, negotiation, compliance tracking, and dispute resolution. Ideal for project managers working with vendors, clients, or subcontractors."
-  utter_advanced_unit_a410_large_programme_management:
+  utter_advanced_course_a410_large_programme_management:
     - text: "A410 focuses on managing interrelated projects under large programs. You’ll learn stakeholder governance, strategic planning, and multi-team coordination to deliver on big initiatives."
   utter_certification:
     - text: "Yes, you will receive a recognized digital certificate upon completion. It does not expire and can be used for job applications. Replacements can be requested if needed."
   utter_payment_process:
     - text: "Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration."
+  utter_payment_info:
+    - text: |
+        Payments for Smart Academy courses are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration. Course fees are as follows:
+        - Foundational: 500 KES
+        - Basic: 2,500 KES
+        - Intermediate: 5,000 KES
+        - Advanced: 12,000 KES
+        Payments can be made via bank transfer or mobile money through eCitizen. Receipts are available on your Smart Academy portal after payment. For more details, visit https://www.smartacademy.go.ke.
   utter_paybill_and_account_details:
-    - text: "Use Paybill number 222222 on eCitizen. Account numbers are generated per course. Visit [invalid url, do not cite] for payment help."
+    - text: "Use Paybill number 222222 on eCitizen. Account numbers are generated per course. Visit https://www.smartacademy.go.ke for payment help."
   utter_course_fees:
     - text: "Course fees are as follows:\n- Foundational: 500 KES\n- Basic: 2,500 KES\n- Intermediate: 5,000 KES\n- Advanced: 12,000 KES\n\nPay via eCitizen using Paybill 222222."
 

@@ -121,49 +121,50 @@ rules:
   - intent: intermediate_digital_skills_fees_and_payment
   - action: utter_intermediate_digital_skills_fees_and_payment
 
-- rule: Respond to intermediate unit I303 advanced excel
+- rule: Respond to intermediate course I303 advanced excel
   steps:
-  - intent: intermediate_unit_i303_advanced_excel
-  - action: utter_intermediate_unit_i303_advanced_excel
+  - intent: intermediate_course_i303_advanced_excel
+  - action: utter_intermediate_course_i303_advanced_excel
 
-- rule: Respond to intermediate unit I304 elearning content production
+- rule: Respond to intermediate course I304 elearning content production
   steps:
-  - intent: intermediate_unit_i304_elearning_content_production
-  - action: utter_intermediate_unit_i304_elearning_content_production
+  - intent: intermediate_course_i304_elearning_content_production
+  - action: utter_intermediate_course_i304_elearning_content_production
 
-- rule: Respond to intermediate unit I305 data management and analytics
+- rule: Respond to intermediate course I305 data management and analytics
   steps:
-  - intent: intermediate_unit禁止
+  - intent: intermediate_course_1305_data_management_and_analytics
+  - action: utter_intermediate_course_1305_data_management_and_analytics
 
-- rule: Respond to intermediate unit I306 digital marketing and ecommerce
+- rule: Respond to intermediate course I306 digital marketing and ecommerce
   steps:
-  - intent: intermediate_unit_i306_digital_marketing_and_ecommerce
-  - action: utter_intermediate_unit_i306_digital_marketing_and_ecommerce
+  - intent: intermediate_course_i306_digital_marketing_and_ecommerce
+  - action: utter_intermediate_course_i306_digital_marketing_and_ecommerce
 
-- rule: Respond to intermediate unit I307 web design and development
+- rule: Respond to intermediate course I307 web design and development
   steps:
-  - intent: intermediate_unit_i307_web_design_and_development
-  - action: utter_intermediate_unit_i307_web_design_and_development
+  - intent: intermediate_course_i307_web_design_and_development
+  - action: utter_intermediate_course_i307_web_design_and_development
 
-- rule: Respond to intermediate unit I308 introduction to python programming
+- rule: Respond to intermediate course I308 introduction to python programming
   steps:
-  - intent: intermediate_unit_i308_introduction_to_python_programming
-  - action: utter_intermediate_unit_i308_introduction_to_python_programming
+  - intent: intermediate_course_i308_introduction_to_python_programming
+  - action: utter_intermediate_course_i308_introduction_to_python_programming
 
-- rule: Respond to intermediate unit I310 fundamentals of networking
+- rule: Respond to intermediate course I310 fundamentals of networking
   steps:
-  - intent: intermediate_unit_i310_fundamentals_of_networking
-  - action: utter_intermediate_unit_i310_fundamentals_of_networking
+  - intent: intermediate_course_i310_fundamentals_of_networking
+  - action: utter_intermediate_course_i310_fundamentals_of_networking
 
-- rule: Respond to intermediate unit I313 ewaste management and circularity
+- rule: Respond to intermediate course I313 ewaste management and circularity
   steps:
-  - intent: intermediate_unit_i313_ewaste_management_and_circularity
-  - action: utter_intermediate_unit_i313_ewaste_management_and_circularity
+  - intent: intermediate_course_i313_ewaste_management_and_circularity
+  - action: utter_intermediate_course_i313_ewaste_management_and_circularity
 
-- rule: Respond to intermediate unit I314 cyber hygiene for smes
+- rule: Respond to intermediate course I314 cyber hygiene for smes
   steps:
-  - intent: intermediate_unit_i314_cyber_hygiene_for_smes
-  - action: utter_intermediate_unit_i314_cyber_hygiene_for_smes
+  - intent: intermediate_course_i314_cyber_hygiene_for_smes
+  - action: utter_intermediate_course_i314_cyber_hygiene_for_smes
 
 - rule: Respond to advanced digital skills overview
   steps:
@@ -180,55 +181,55 @@ rules:
   - intent: advanced_digital_skills_format_and_duration
   - action: utter_advanced_digital_skills_format_and_duration
 
-- rule: Respond to advanced unit A401 ai for sdgs
+- rule: Respond to advanced course A401 ai for sdgs
   steps:
-  - intent: advanced_unit_a401_ai_for_sdgs
-  - action: utter_advanced_unit_a401_ai_for_sdgs
+  - intent: advanced_course_a401_ai_for_sdgs
+  - action: utter_advanced_course_a401_ai_for_sdgs
 
-- rule: Respond to advanced unit A402 fintech technologies
+- rule: Respond to advanced course A402 fintech technologies
   steps:
-  - intent: advanced_unit_a402_fintech_technologies
-  - action: utter_advanced_unit_a402_fintech_technologies
+  - intent: advanced_course_a402_fintech_technologies
+  - action: utter_advanced_course_a402_fintech_technologies
 
-- rule: Respond to advanced unit A403 cybersecurity and analytics
+- rule: Respond to advanced course A403 cybersecurity and analytics
   steps:
-  - intent: advanced_unit_a403_cybersecurity_and_analytics
-  - action: utter_advanced_unit_a403_cybersecurity_and_analytics
+  - intent: advanced_course_a403_cybersecurity_and_analytics
+  - action: utter_advanced_course_a403_cybersecurity_and_analytics
 
-- rule: Respond to advanced unit A404 integrated circuit design and fabrication iot
+- rule: Respond to advanced course A404 integrated circuit design and fabrication iot
   steps:
-  - intent: advanced_unit_a404_integrated_circuit_design_and_fabrication_iot
-  - action: utter_advanced_unit_a404_integrated_circuit_design_and_fabrication_iot
+  - intent: advanced_course_a404_integrated_circuit_design_and_fabrication_iot
+  - action: utter_advanced_course_a404_integrated_circuit_design_and_fabrication_iot
 
-- rule: Respond to advanced unit A405 data analytics for decision making
+- rule: Respond to advanced course A405 data analytics for decision making
   steps:
-  - intent: advanced_unit_a405_data_analytics_for_decision_making
-  - action: utter_advanced_unit_a405_data_analytics_for_decision_making
+  - intent: advanced_course_a405_data_analytics_for_decision_making
+  - action: utter_advanced_course_a405_data_analytics_for_decision_making
 
-- rule: Respond to advanced unit A406 advanced project management
+- rule: Respond to advanced course A406 advanced project management
   steps:
-  - intent: advanced_unit_a406_advanced_project_management
-  - action: utter_advanced_unit_a406_advanced_project_management
+  - intent: advanced_course_a406_advanced_project_management
+  - action: utter_advanced_course_a406_advanced_project_management
 
-- rule: Respond to advanced unit A407 ewaste management and circular ai
+- rule: Respond to advanced course A407 ewaste management and circular ai
   steps:
-  - intent: advanced_unit_a407_ewaste_management_and_circular_ai
-  - action: utter_advanced_unit_a407_ewaste_management_and_circular_ai
+  - intent: advanced_course_a407_ewaste_management_and_circular_ai
+  - action: utter_advanced_course_a407_ewaste_management_and_circular_ai
 
-- rule: Respond to advanced unit A408 digital project monitoring and evaluation mel
+- rule: Respond to advanced course A408 digital project monitoring and evaluation mel
   steps:
-  - intent: advanced_unit_a408_digital_project_monitoring_and_evaluation_mel
-  - action: utter_advanced_unit_a408_digital_project_monitoring_and_evaluation_mel
+  - intent: advanced_course_a408_digital_project_monitoring_and_evaluation_mel
+  - action: utter_advanced_course_a408_digital_project_monitoring_and_evaluation_mel
 
-- rule: Respond to advanced unit A409 project contract management
+- rule: Respond to advanced course A409 project contract management
   steps:
-  - intent: advanced_unit_a409_project_contract_management
-  - action: utter_advanced_unit_a409_project_contract_management
+  - intent: advanced_course_a409_project_contract_management
+  - action: utter_advanced_course_a409_project_contract_management
 
-- rule: Respond to advanced unit A410 large programme management
+- rule: Respond to advanced course A410 large programme management
   steps:
-  - intent: advanced_unit_a410_large_programme_management
-  - action: utter_advanced_unit_a410_large_programme_management
+  - intent: advanced_course_a410_large_programme_management
+  - action: utter_advanced_course_a410_large_programme_management
 
 - rule: Respond to certification
   steps:
@@ -239,6 +240,11 @@ rules:
   steps:
   - intent: payment_process
   - action: utter_payment_process
+
+- rule: Respond to payment information
+  steps:
+  - intent: payment_info
+  - action: utter_payment_info
 
 - rule: Respond to paybill and account details
   steps:

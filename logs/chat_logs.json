@@ -490,5 +490,197 @@
         "prompt": "What if I miss a payment",
         "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Name: - Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
         "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-07-03 11:09:55",
+        "prompt": "addvanced",
+        "response": "Hello, how may I be of help today?",
+        "source": "FAQ (greeting)"
+    },
+    {
+        "timestamp": "2025-07-03 11:10:30",
+        "prompt": "advanced",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Name: - Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-07-03 11:11:22",
+        "prompt": "advanced",
+        "response": "Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit https://www.smartacademy.go.ke to explore.",
+        "source": "FAQ (advanced_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:11:47",
+        "prompt": "intermediate course",
+        "response": "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke.",
+        "source": "FAQ (intermediate_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:12:23",
+        "prompt": "courses under intermediate",
+        "response": "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke.",
+        "source": "FAQ (intermediate_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:13:12",
+        "prompt": "advanced course duration",
+        "response": "\u2705 Advanced courses are fully online and typically run for 3 to 6 months. They include practical tasks, assessments, and live support. Some courses may have weekly schedules or deadlines.\n\n\u2705 The full bundled Basic Digital Skills training costs KSh 2,500 and runs for 10 days.\n\n\u2705 Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit https://www.smartacademy.go.ke to explore.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:14:16",
+        "prompt": "foundational",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:14:37",
+        "prompt": "basic digital skills",
+        "response": "The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke.",
+        "source": "FAQ (basic_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:14:56",
+        "prompt": "payment",
+        "response": "\u2705 Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:15:26",
+        "prompt": "where can I find foundational digital skills",
+        "response": "\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\n\u2705 Here are the courses included:\nB201: Digital Devices in Digital Workspace\nB202: Skills in Basic Productivity Tools\nB203: Communication and Collaboration\nB204: Access to Government Services\nB205: Video Production and Editing\nB206: Learning Online\nB207: Basic Online Work Skills\nB208: Digital Entrepreneurship\nB209: Cyberhygiene\nB210: E-Waste Management\n\n\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:16:18",
+        "prompt": "where can I find foundational course\n",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "FAQ (foundational_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:16:53",
+        "prompt": "Does one get a certificate after completion",
+        "response": "\u2705 Yes, you will receive a recognized digital certificate upon completion. It does not expire and can be used for job applications. Replacements can be requested if needed.\n\n\u2705 Smart Academy Intermediate programs include specialized courses such as Digital Ethics, Advanced Excel, Data Analytics, Python Programming, Project Management, and more. These are ideal for learners with foundational knowledge and take 1 to 2 months to complete. Courses are flexible, offered online, and supported with mentorship. Visit https://www.smartacademy.go.ke for eligibility, cost, and how to apply.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:18:06",
+        "prompt": "can one apply 2 courses at once",
+        "response": "Smart Academy Intermediate programs include specialized courses such as Digital Ethics, Advanced Excel, Data Analytics, Python Programming, Project Management, and more. These are ideal for learners with foundational knowledge and take 1 to 2 months to complete. Courses are flexible, offered online, and supported with mentorship. Visit https://www.smartacademy.go.ke for eligibility, cost, and how to apply.",
+        "source": "FAQ (intermediate_digital_skills_enrollment_and_structure)"
+    },
+    {
+        "timestamp": "2025-07-03 11:19:33",
+        "prompt": "can one drop a course",
+        "response": "\u2705 Smart Academy Intermediate programs include specialized courses such as Digital Ethics, Advanced Excel, Data Analytics, Python Programming, Project Management, and more. These are ideal for learners with foundational knowledge and take 1 to 2 months to complete. Courses are flexible, offered online, and supported with mentorship. Visit https://www.smartacademy.go.ke for eligibility, cost, and how to apply.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:21:17",
+        "prompt": "I303",
+        "response": "\u2705 I303 - Advanced Excel for the Analysis is an intermediate-level course designed to enhance your skills in Excel, especially for data analysis tasks. It includes formulas, pivot tables, charts, and automation. The course runs for 40 hours.\n\n\u2705 I306 - Digital Marketing, E-Commerce & Entrepreneurship teaches how to promote businesses online, create digital shops, use social media, and develop entrepreneurial thinking. Duration: 40 hours.\n\n\u2705 I304 - eLearning Content Production is an intermediate-level course that teaches you how to design and produce digital learning materials. The course covers video editing, audio recording, and interactive content creation. Duration: 40 hours.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 11:21:51",
+        "prompt": "intermediate courses",
+        "response": "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke.",
+        "source": "FAQ (intermediate_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:22:41",
+        "prompt": "intermediate units",
+        "response": "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke.",
+        "source": "FAQ (intermediate_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 11:23:19",
+        "prompt": "unit 1303",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Name: - Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-07-03 11:23:37",
+        "prompt": "course 1303",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Name: - Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-07-03 19:59:26",
+        "prompt": "hello",
+        "response": "\u2705 Hello, how may I be of help today?",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 20:01:45",
+        "prompt": "hello",
+        "response": "Hello, how may I be of help today?",
+        "source": "FAQ (greeting)"
+    },
+    {
+        "timestamp": "2025-07-03 20:02:09",
+        "prompt": "foundational ",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\nAvailable courses include:\n- F101: Operating Digital Devices\n- F102: Making Social Connection\n- F103: Doing Business\n- F104: Accessing Government Services\n- F105: Cyber Hygiene for Everyone\n- F106: eWaste Management",
+        "source": "FAQ (combined foundational_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 20:02:30",
+        "prompt": "f101",
+        "response": "\u2705 Covers the basics of using digital devices like smartphones, tablets, and computers. Learners gain skills in turning devices on/off, navigating screens, using keyboards/mice/touchscreens, and managing simple settings.\n\n\u2705 Introduces how digital tools can help in running or starting a business, such as using online marketplaces, digital payments, social media marketing, and basic online business management.\n\n\u2705 Teaches how to use digital tools (e.g. messaging apps, social media platforms) to communicate and stay connected with family, friends, and communities safely and effectively.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 20:03:00",
+        "prompt": "digital ",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-07-03 20:03:18",
+        "prompt": "basic",
+        "response": "I'm not confident I can help with that. Talk to an agent for further enquiries.\n\n\ud83d\udcde Contact Smart Academy Support Team:\n- Phone: +254 712 345 678\n- Email: support@smartacademy.go.ke\n- Website: https://smartacademy.go.ke",
+        "source": "Escalation"
+    },
+    {
+        "timestamp": "2025-07-03 20:03:38",
+        "prompt": "basic digital skills",
+        "response": "\u2705 The Basic Digital Skills curriculum equips learners with essential skills for today's digital society. Topics include productivity tools, communication, government services, and more. It helps you use digital tools for learning, communication, and professional growth. Details at https://www.smartacademy.go.ke.\n\n\u2705 Here are the courses included:\nB201: Digital Devices in Digital Workspace\nB202: Skills in Basic Productivity Tools\nB203: Communication and Collaboration\nB204: Access to Government Services\nB205: Video Production and Editing\nB206: Learning Online\nB207: Basic Online Work Skills\nB208: Digital Entrepreneurship\nB209: Cyberhygiene\nB210: E-Waste Management\n\n\u2705 The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 20:04:43",
+        "prompt": "intermediate ",
+        "response": "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke.\n\nAvailable courses include:\n- I303: Advanced Excel for Analysis\n- I304: eLearning Content Production\n- I305: Data Management and Analytics\n- I306: Digital Marketing, E-Commerce & Entrepreneurship\n- I307: Web Design and Development\n- I308: Introduction to Programming with Python\n- I310: Fundamentals of Networking\n- I313: eWaste Management & Circularity\n- I314: Cyber Hygiene for SMEs",
+        "source": "FAQ (combined intermediate_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 20:05:06",
+        "prompt": "how to pay for a course",
+        "response": "\u2705 Payments are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration.\n\n\u2705 Payments for Smart Academy courses are made through the eCitizen platform using Paybill number 222222. Account numbers are generated automatically per course during registration. Course fees are as follows:\n- Foundational: 500 KES\n- Basic: 2,500 KES\n- Intermediate: 5,000 KES\n- Advanced: 12,000 KES\nPayments can be made via bank transfer or mobile money through eCitizen. Receipts are available on your Smart Academy portal after payment. For more details, visit [invalid url, do not cite].\n\n\u2705 Smart Academy Intermediate programs include specialized courses such as Digital Ethics, Advanced Excel, Data Analytics, Python Programming, Project Management, and more. These are ideal for learners with foundational knowledge and take 1 to 2 months to complete. Courses are flexible, offered online, and supported with mentorship. Visit https://www.smartacademy.go.ke for eligibility, cost, and how to apply.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 20:05:57",
+        "prompt": "advanced course",
+        "response": "\u2705 Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit https://www.smartacademy.go.ke to explore.\n\n\u2705 Advanced courses are fully online and typically run for 3 to 6 months. They include practical tasks, assessments, and live support. Some courses may have weekly schedules or deadlines.\n\n\u2705 Advanced courses may require prior experience in digital skills. Enrollment is online via Smart Academy's portal. Support includes tutor interaction, peer forums, and project reviews. Visit the official site to sign up.",
+        "source": "Multi Semantic Match"
+    },
+    {
+        "timestamp": "2025-07-03 20:06:28",
+        "prompt": "advanced digital skills",
+        "response": "Advanced Digital Skills courses at Smart Academy are designed for learners aiming for career-level technical expertise. Topics include AI for SDGs, Fintech, Cybersecurity and Analytics, Integrated Circuit Design (IoT), and more. These courses are project-driven and often require foundational or intermediate experience. Visit https://www.smartacademy.go.ke to explore.\n\nAvailable courses include:\n- A401: AI for SDGs\n- A402: Fintech Technologies\n- A403: Cybersecurity and Analytics\n- A404: Integrated Circuit Design and Fabrication (IoT)\n- A405: Data Analytics for Decision Making\n- A406: Advanced Project Management\n- A407: eWaste Management and Circular AI\n- A408: Digital Project Monitoring and Evaluation (MEL)\n- A409: Project Contract Management\n- A410: Large Programme Management",
+        "source": "FAQ (combined advanced_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 20:06:53",
+        "prompt": "intermediate digital skills",
+        "response": "The Intermediate Digital Skills courses at Smart Academy are designed for learners seeking in-depth expertise and career-ready proficiency in modern technologies. These courses build on foundational knowledge, offering specialized training, hands-on projects, and industry-recognized certifications to prepare you for high-demand roles in the digital economy. Explore course details and enrollment at https://www.smartacademy.go.ke.\n\nAvailable courses include:\n- I303: Advanced Excel for Analysis\n- I304: eLearning Content Production\n- I305: Data Management and Analytics\n- I306: Digital Marketing, E-Commerce & Entrepreneurship\n- I307: Web Design and Development\n- I308: Introduction to Programming with Python\n- I310: Fundamentals of Networking\n- I313: eWaste Management & Circularity\n- I314: Cyber Hygiene for SMEs",
+        "source": "FAQ (combined intermediate_digital_skills_overview)"
+    },
+    {
+        "timestamp": "2025-07-03 20:07:24",
+        "prompt": "foundational digital skills",
+        "response": "The Foundational Digital Skills Curriculum is designed to empower individuals with basic knowledge to thrive in a digital world. Start your tech journey at https://www.smartacademy.go.ke.\n\nAvailable courses include:\n- F101: Operating Digital Devices\n- F102: Making Social Connection\n- F103: Doing Business\n- F104: Accessing Government Services\n- F105: Cyber Hygiene for Everyone\n- F106: eWaste Management",
+        "source": "FAQ (combined foundational_digital_skills_overview)"
     }
 ]
