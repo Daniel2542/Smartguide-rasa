@@ -1,9 +1,9 @@
 # rasa==3.5.0
 #rasa==3.4.0
-tensorflow-intel==2.11.0
-protobuf==3.19.6
-scipy==1.8.1
-sqlalchemy<2.0
+#tensorflow-intel==2.11.0
+#protobuf==3.19.6
+#scipy==1.8.1
+#sqlalchemy<2.0
 streamlit
 requests
 google-generativeai
