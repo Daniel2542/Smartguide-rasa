@@ -1,10 +1,10 @@
-import streamlit as st
-import requests
-import google.generativeai as genai
-from dotenv import load_dotenv
-import os
-import json
-import time
-from datetime import datetime
-from sentence_transformers import SentenceTransformer, util
-from functools import lru_cache
+rasa==3.5.0
+tensorflow-intel==2.11.0
+protobuf==3.19.6
+scipy==1.8.1
+sqlalchemy<2.0
+streamlit
+requests
+google-generativeai
+python-dotenv
+sentence-transformers
